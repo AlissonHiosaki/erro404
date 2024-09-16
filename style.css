@@ -57,8 +57,8 @@ body {
   font-size: 3.75em;
 }
 .not-found:before {
-  letter-spacing: 0.25px;
-  content: "Page not found";
+  letter-spacing: 1.25px;
+  content: "Pagina";
   position: absolute;
   color: #ff78fa;
   mix-blend-mode: color-dodge;
